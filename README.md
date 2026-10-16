@@ -228,8 +228,6 @@ A compatible Python version must be selected based on the TensorFlow version use
 
 ### 1. Clone the Repository
 
-Replace `<your-github-username>` with your GitHub username.
-
 ```bash
 git clone https://github.com/<utkarshvermauv612>/MedVision-AI.git
 ```
