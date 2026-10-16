@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+matplotlib
+streamlit
+Pillow
+opencv-python
+scikit-learn
+Flask
+Flask-Cors
+requests

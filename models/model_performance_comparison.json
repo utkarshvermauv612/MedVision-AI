@@ -1,0 +1,30 @@
+[
+    {
+        "model": "Version 2 \u2014 Custom CNN",
+        "test_images": 624,
+        "accuracy": 0.8125,
+        "precision": 0.837037037037037,
+        "sensitivity": 0.8692307692307693,
+        "specificity": 0.717948717948718,
+        "f1_score": 0.8528301886792453,
+        "roc_auc": 0.9048871356563664,
+        "TN": 168,
+        "FP": 66,
+        "FN": 51,
+        "TP": 339
+    },
+    {
+        "model": "Version 3 \u2014 DenseNet121",
+        "test_images": 624,
+        "accuracy": 0.8573717948717948,
+        "precision": 0.8264642082429501,
+        "sensitivity": 0.9769230769230769,
+        "specificity": 0.6581196581196581,
+        "f1_score": 0.8954171562867215,
+        "roc_auc": 0.9652421652421653,
+        "TN": 154,
+        "FP": 80,
+        "FN": 9,
+        "TP": 381
+    }
+]

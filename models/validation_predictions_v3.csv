@@ -1,0 +1,17 @@
+filepath,actual_label,predicted_label,pneumonia_probability
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1427-0001.jpeg,NORMAL,NORMAL,0.027361266
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1430-0001.jpeg,NORMAL,NORMAL,0.0034367903
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1431-0001.jpeg,NORMAL,NORMAL,0.17767394
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1436-0001.jpeg,NORMAL,NORMAL,0.06946664
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1437-0001.jpeg,NORMAL,NORMAL,0.025673348
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1438-0001.jpeg,NORMAL,NORMAL,0.13893563
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1440-0001.jpeg,NORMAL,NORMAL,0.071377136
+A:\Project\Medical_Image_Analysis\chest_xray\val\NORMAL\NORMAL2-IM-1442-0001.jpeg,NORMAL,NORMAL,0.008967629
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1946_bacteria_4874.jpeg,PNEUMONIA,PNEUMONIA,0.999945
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1946_bacteria_4875.jpeg,PNEUMONIA,PNEUMONIA,0.9997191
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1947_bacteria_4876.jpeg,PNEUMONIA,PNEUMONIA,0.99221563
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1949_bacteria_4880.jpeg,PNEUMONIA,PNEUMONIA,0.95621514
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1950_bacteria_4881.jpeg,PNEUMONIA,PNEUMONIA,0.9946863
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1951_bacteria_4882.jpeg,PNEUMONIA,PNEUMONIA,0.9999126
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1952_bacteria_4883.jpeg,PNEUMONIA,PNEUMONIA,0.9974165
+A:\Project\Medical_Image_Analysis\chest_xray\val\PNEUMONIA\person1954_bacteria_4886.jpeg,PNEUMONIA,PNEUMONIA,0.6185843

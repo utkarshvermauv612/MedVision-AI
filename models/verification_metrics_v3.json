@@ -1,0 +1,29 @@
+{
+    "model": "best_model_v3.keras",
+    "test_images": 624,
+    "threshold": 0.5,
+    "accuracy": 0.8573717948717948,
+    "precision": 0.8264642082429501,
+    "sensitivity": 0.9769230769230769,
+    "specificity": 0.6581196581196581,
+    "f1_score": 0.8954171562867215,
+    "roc_auc": 0.9652421652421653,
+    "true_normal": 154,
+    "false_pneumonia": 80,
+    "missed_pneumonia": 9,
+    "true_pneumonia": 381,
+    "confusion_matrix": [
+        [
+            154,
+            80
+        ],
+        [
+            9,
+            381
+        ]
+    ],
+    "class_mapping": {
+        "NORMAL": 0,
+        "PNEUMONIA": 1
+    }
+}
